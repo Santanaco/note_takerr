@@ -1,8 +1,8 @@
 const express = require('express');
 const app = express();
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 5502;
 
-const apiRoutes = require('./routes/apiRoutes');
+const apiRoutes = require('./routes/apiRoutes'); 
 const htmlRoutes = require('./routes/htmlRoutes');
 
 // parse POST data
