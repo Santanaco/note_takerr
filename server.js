@@ -1,27 +1,19 @@
 const express = require('express');
 const app = express();
 const PORT = process.env.PORT || 3001;
-const path = require('path');
-const htmlRoutes = require('./htmlRoutes');
-const apiRoutes = require('./apiRoutes');
 
+const apiRoutes = require('./routes/apiRoutes');
+const htmlRoutes = require('./routes/htmlRoutes');
 
-//Use static server to serve the website
- app.use(express.static(__dirname, 'public'));
- app.use(express.static(path.join(__dirname, 'public')));
-
-
-// Middleware to parse
-app.use(express.json());
-//for parsing application
+// parse POST data
 app.use(express.urlencoded({ extended: true }));
-app.use(express.static("public"));
+app.use(express.json());
 
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
 
+app.use(express.static('public'));
 
-//listening on port
 app.listen(PORT, () => {
-    console.log(`listening on ${PORT}`);
+    console.log(`API server now on port ${PORT}!`);
 });
