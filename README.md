@@ -31,7 +31,7 @@ To return to the landing page, click the 'Note Taker' button in the top left cor
 
 Heroku deployment: https://limitless-atoll-92213.herokuapp.com//
 
-![Notetaker-homepage](https://user-images.githubusercontent.com/117237641/226190080-10ca6e7c-8671-4248-bb38-58f1f8f245bb.png)
+![Notetaker-homepage] (images/Screenshot 2023-06-05 at 8.16.23 PM.png)
 
 ![Notetaker-landingpage](https://user-images.githubusercontent.com/117237641/226190131-4d5a8b22-fd4d-4d88-a909-a404478be0d9.png)
 
