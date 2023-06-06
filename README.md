@@ -29,7 +29,7 @@ To return to the landing page, click the 'Note Taker' button in the top left cor
 
 ## Deployment
 
-Heroku deployment: https://damp-crag-05718.herokuapp.com/
+Heroku deployment: https://limitless-atoll-92213.herokuapp.com//
 
 ![Notetaker-homepage](https://user-images.githubusercontent.com/117237641/226190080-10ca6e7c-8671-4248-bb38-58f1f8f245bb.png)
 
@@ -49,7 +49,7 @@ No tests necessary at this time.
 
 [Starter Code](https://github.com/coding-boot-camp/miniature-eureka)
 
-My classmates that helped me get the ball rolling, of course! :)
+My classmates that helped me get the ball rolling, of course! 
 
 ## License
 
@@ -57,4 +57,4 @@ No license for this project.
 
 ## How to Contribute
 
-For contributions, please contact me!
+For contributions, please don't hesitate to contact me!
