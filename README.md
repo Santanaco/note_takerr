@@ -31,11 +31,9 @@ To return to the landing page, click the 'Note Taker' button in the top left cor
 
 Heroku deployment: https://limitless-atoll-92213.herokuapp.com//
 
-![Notetaker-homepage] (images/Screenshot 2023-06-05 at 8.16.23 PM.png)
+![Notetaker-homepage](./images/Screenshot%202023-06-05%20at%208.16.23%20PM.png)
 
-![Notetaker-landingpage](https://user-images.githubusercontent.com/117237641/226190131-4d5a8b22-fd4d-4d88-a909-a404478be0d9.png)
-
-![Notetaker-demo](https://user-images.githubusercontent.com/117237641/226190138-e483a2de-b49a-4390-94c0-68401d76f5e4.png)
+![Notetaker-demo](./images/Screenshot%202023-06-05%20at%208.17.11%20PM.png)
 
 ## Technologies
 
@@ -49,7 +47,7 @@ No tests necessary at this time.
 
 [Starter Code](https://github.com/coding-boot-camp/miniature-eureka)
 
-My classmates that helped me get the ball rolling, of course! 
+The TA's have helped me countless times, finanlly got it deployed !! 
 
 ## License
 
